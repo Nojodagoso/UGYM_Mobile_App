@@ -1,4 +1,4 @@
-# UGYM_Mobile_App
+# Project and Release control tool
 
 This is a project created by students from Universidad Fidelitas
 
